@@ -27,6 +27,8 @@ Novel advice:
 7. there are textual characters that aren't in unicode yet, mostly because they haven't found enough dusty scholar manhours yet to get a comprehensive proposal together. for example, https://en.wikipedia.org/wiki/Maya_script#Computer_encoding . so, dream big.
 8. there are also textual marks that will never make it to unicode, being the idiosyncratic marks of only one source. remember that.
 9. It's probably better for the space after a sentence to be more than one regular space. i don't personally hit the space baar twice, but I see the appeal. i think it would probably be better at a 1.5 space I suppose. Maybe the period being small already does this.
+10. You should endeavor to use whom correctly where appropriate.
+11. You should pronounce the wh phoneme as it is supposed to be, as /ʍ/ (voiceless w). This is a little bit archaic in most dialects, but it's good, based on the principle that you should pronounce distinct words distinctly. you should also go even further than that and pronounce the w h in words like who and whole as /ʍ/; this was lost in Middle English, which I usually think of as too far back to revert a change on, but we can just start doing it again.
    
 
 Blue-sky advice:
@@ -48,6 +50,10 @@ capital letters are unnecessary and could have been gotten rid of. or treated as
 it's also inconvenient to use capital letter for both proper nouns AND the beginning of sentences. ambiguous nouns can appear at the beginning of sentences! Probably, there should be a begin-sentence mark (unless the previous period is enough...) And also separate proper noun brackets, title brackets, and subtitle brackets. Like what the Japanese do around titles with their little quotation mark type things.
 
 too many punctuation marks are used for too many things. period shouldn't be used for both abbreviation and sentence-ending. It's ambiguous! there should be a special abbreviation mark I guess, or the sentence ending period should look different (perhaps be larger, like one of the Asian language periods, especially if we're not going to have capital letters anymore...)
+
+there should actually be one letter per sound and you should spell words by writing down exactly how you pronounce them. The spelling will change over time. So what? things already change over time.
+
+If you do need to have a standardized spelling, you should have one that stays stable for exactly a hundred years and so you have a standardized spelling for X0XX, X1XX, and you can easily tell which dictionary to consult based on the date of the document.
 
 Advice for programming? (coming soon?)
 
