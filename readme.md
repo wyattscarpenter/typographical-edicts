@@ -45,6 +45,8 @@ instead of A through F, there should be designated hexadecimal digits. (in the o
 
 capital letters are unnecessary and could have been gotten rid of. or treated as a rich text styling! (again, though: horse, barn. at leaet with unicode)
 
+it's also inconvenient to use capital letter for both proper nouns AND the beginning of sentences. ambiguous nouns can appear at the beginning of sentences! Probably, there should be a begin-sentence mark (unless the previous period is enough...) And also separate proper noun brackets, title brackets, and subtitle brackets. Like what the Japanese do around titles with their little quotation mark type things.
+
 too many punctuation marks are used for too many things. period shouldn't be used for both abbreviation and sentence-ending. It's ambiguous! there should be a special abbreviation mark I guess, or the sentence ending period should look different (perhaps be larger, like one of the Asian language periods, especially if we're not going to have capital letters anymore...)
 
 Advice for programming? (coming soon?)
