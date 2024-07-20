@@ -9,7 +9,7 @@ Advice for normal people:
 3. in fact, ideally every glyph in your font looks distinct. This may mean that you have to represent EG the Cyrillic alphabet in a slightly different font than the Greek alphabet, but that's fine you just do that.
 4. Non-lining numerals (https://en.wikipedia.org/wiki/non-lining_figures) just look ridiculous, and should not be used.
 5. If you are designing a romanization scheme for a language, never use the dotless ı / dotted i distinction such as in Turkish and other similar languages. this will lead you into an incredible amount of technical trouble, where the very capitalization of i now depends on locale (something programmers are bad at thinking about). (For those curious, in the Turkish locale i becomes İ.)
-6. italic should be a first-class citizen of unicode, as should bold.
+6. italic should be a first-class citizen of unicode, as should bold. (Probably using variation selectors.)
 7. everybody already knows this, but there is a difference between true italic and "oblique", where you just slant the letters a bit. (presumably there's a sort of type where you rotate all of the letters a little bit as well?) true italic is usually better; And it's always better if you actually want true italic instead of just a thing that vaguely looks like it a bit.
 8. serif fonts are better than sans-serif fonts.
 9. everybody is always trying to design a font that basically looks like helvetica. stop doing this. No one needs another helvetica.
@@ -23,6 +23,11 @@ Novel advice:
 3. I know people think there's technically a distinction between different types of dashes (en or smaller) and the hyphen and the minus, but I've never really found any of those useful. It is pretty crazy that the minus sign also looks exactly like the sign we use to make a numerical range like 1-10 (is that "1 to 10" or -9?). I'm sure the dashes help with that, if you know what the different dash lengths mean and read very carefully. (hint: minus is shorter)
 4. typing the ^ above the o in the word rôle is unnecessary.
 5. using the diaeresis in words like coöperate is usually unnecessary and out of style. in cases where it is necessary, it's probably clearer (to most readers) to use a hyphen like co-operate.
+6. You should be able to typeset (and, indeed, even play) music entirely from a unicode representation of the sheet music (again, probably using variation selectors.
+7. there are textual characters that aren't in unicode yet, mostly because they haven't found enough dusty scholar manhours yet to get a comprehensive proposal together. for example, https://en.wikipedia.org/wiki/Maya_script#Computer_encoding . so, dream big.
+8. there are also textual marks that will never make it to unicode, being the idiosyncratic marks of only one source. remember that.
+9. It's probably better for the space after a sentence to be more than one regular space. i don't personally hit the space baar twice, but I see the appeal. i think it would probably be better at a 1.5 space I suppose. Maybe the period being small already does this.
+   
 
 Blue-sky advice:
 
@@ -41,3 +46,14 @@ instead of A through F, there should be designated hexadecimal digits. (in the o
 capital letters are unnecessary and could have been gotten rid of. or treated as a rich text styling! (again, though: horse, barn. at leaet with unicode)
 
 too many punctuation marks are used for too many things. period shouldn't be used for both abbreviation and sentence-ending. It's ambiguous! there should be a special abbreviation mark I guess, or the sentence ending period should look different (perhaps be larger, like one of the Asian language periods, especially if we're not going to have capital letters anymore...)
+
+Advice for programming? (coming soon?)
+
+programming is traditionally done in monospace, which has the advantage that you can learn pretty easily where on the page your eyes should jump to to see things (i cannot prove this). it's also traditionally displayed on a screen in colored text, colored based on the syntax of the program language, which is good because it reminds you of the syntax of the programming language, and how this program fits into it.
+
+i use a two-space indent, as the smallest power-of-two number if spaces visually distinguishable from a single space. But I get the feeling maybe I'm just I'm usually good and distinguishing this, which is why most people use four spaces. That also seems fine to me. everyone agrees eight space indents, which is traditional, is insane. You can also use tab characters to intent, which is kind of what you're supposed to do in a way, but the tab character basically got less and less supported as time went on due to historical accident so I don't think it's worth reviving it now.
+(in any case, you should definitely have an auto formatting tool that can take care of this. including changing the tab sizes to whatever you prefer when you edit, and changing back to whatever your organization prefers once you're done editing. It should also handle removing trailing white space and ensuring there is exactly one new line at the end of files (a peculiar requirement of some things that handle files; which I follow for the sake of uniformity, even though I personally think of the new line character as a line separator and not a line terminator...)
+
+digraphic programming fonts seem bad to me, but only because they tend to produce glyphs that are indistinguishable from other distinct characters that already actually exist, like →. 
+
+-> is an ugly little contrivance, and should not be used. same with <> for angle brackets. These also make parsing much more complex (although parsing should actually be trivial if you implement it correctly; this is just double the effort of trivial) because you can't count on > to be an operator any more. But this only matters if you're designing a programming language.
