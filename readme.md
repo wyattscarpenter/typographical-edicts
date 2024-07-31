@@ -4,7 +4,7 @@ People keep making fonts wrong, so here's my advice.
 
 Advice for normal people:
 
-1. The bars on the top and bottom of the capital I should always be present, even in a sans-serif font (hence why I just called them "bars" and not "serifs")
+1. The bars on the top and bottom of the capital I should always be present, even in a sans-serif font (hence why I just called them "bars" and not "serifs").
 2. lowercase l, the numeral 1, and capital I *must* look different. Very distinct. You may type the phrase "11 Illicit Igloos" to test this.
 3. in fact, ideally every glyph in your font looks distinct. This may mean that you have to represent EG the Cyrillic alphabet in a slightly different font than the Greek alphabet, but that's fine you just do that.
 4. Non-lining numerals (https://en.wikipedia.org/wiki/non-lining_figures) just look ridiculous, and should not be used.
@@ -62,6 +62,12 @@ programming is traditionally done in monospace, which has the advantage that you
 i use a two-space indent, as the smallest power-of-two number if spaces visually distinguishable from a single space. But I get the feeling maybe I'm just I'm usually good and distinguishing this, which is why most people use four spaces. That also seems fine to me. everyone agrees eight space indents, which is traditional, is insane. You can also use tab characters to intent, which is kind of what you're supposed to do in a way, but the tab character basically got less and less supported as time went on due to historical accident so I don't think it's worth reviving it now.
 (in any case, you should definitely have an auto formatting tool that can take care of this. including changing the tab sizes to whatever you prefer when you edit, and changing back to whatever your organization prefers once you're done editing. It should also handle removing trailing white space and ensuring there is exactly one new line at the end of files (a peculiar requirement of some things that handle files; which I follow for the sake of uniformity, even though I personally think of the new line character as a line separator and not a line terminator...)
 
-digraphic programming fonts seem bad to me, but only because they tend to produce glyphs that are indistinguishable from other distinct characters that already actually exist, like →. 
+digraphic programming fonts seem bad to me, but only because they tend to produce glyphs that are indistinguishable from other distinct characters that already actually exist, like →.
 
 -> is an ugly little contrivance, and should not be used. same with <> for angle brackets. These also make parsing much more complex (although parsing should actually be trivial if you implement it correctly; this is just double the effort of trivial) because you can't count on > to be an operator any more. But this only matters if you're designing a programming language.
+
+Pre-composed characters are the original sin of unicode, and should not have ever been. Just write the program to render the á, what's the problem? When they finally make a new unicode they shouldn't make this mistake again.
+
+I used to think all accent marks were a mistake as well, and all of language should be monospaced by glyph, but that no-longer seems very realistic or desireable to me. They should be easier to type, though... (American keyboard user talking.)
+
+It's weird that the ellipsis is made up of periods (which actually end the sentence more strongly than an ellipsis). A perfect punctuation system wouldn't do that. Also, there wouldn't be an ambiguity between trailing off and ellision of text, as there currently is with ... (the fact that … is a distinct unicode character doesn't really help, because it still looks like 3 periods.
