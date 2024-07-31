@@ -82,3 +82,7 @@ As far as I can tell, ligatures like ﬀ should never have been added to unicode
 If you were making a second unicode, you should definitely keep all of their wacky little symbols that they added into unicode despite not knowing what exactly they meant. Like ⍼ https://en.wikipedia.org/wiki/Angzarr. You don't have to keep the ones that are like "top half of integral" though. Or do you? Maybe someone has used that on a typewriter to make a really tall integral, with | as its backbone 🤔. You should definitely pick a more accurate name for ☫, though.
 
 I would not have added emoji to unicode. That horse is out of that barn, though, I think. (I mean, I wouldn't have added them to the earlier text encodings that Unicode then endeavored to include, therefore starting the emoji craze.)
+
+ß is a very silly "letter" and german shouldn't have made it (extremely weak opinion of mine). On the other hand, given that they do have it, it's weird that they then invented an "uppercase" version of it, ẞ. It's already weighted like a capital letter. They should have invented a lowercase version of it...
+
+https://en.wikipedia.org/wiki/Palochka this letter is very odd.
