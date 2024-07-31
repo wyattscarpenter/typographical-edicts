@@ -48,7 +48,7 @@ i wnd j shouldn't have dots at all, actually. It's weird to have letters with di
 
 instead of A through F, there should be designated hexadecimal digits. (in the optimal character encoding, byte values 00000000 to 00001111 would represent the digits from 0 to 15). they should probably be displayable on a 7-segment display, but i haven't figured out much else about them. They shouldn't be non-lining, though!
 
-capital letters are unnecessary and could have been gotten rid of. or treated as a rich text styling! (again, though: horse, barn. at leaet with unicode)
+capital letters are unnecessary and could have been gotten rid of. or treated as a rich text styling! (again, though: horse, barn. at least with unicode)
 
 it's also inconvenient to use capital letter for both proper nouns AND the beginning of sentences. ambiguous nouns can appear at the beginning of sentences! Probably, there should be a begin-sentence mark (unless the previous period is enough...) And also separate proper noun brackets, title brackets, and subtitle brackets. Like what the Japanese do around titles with their little quotation mark type things.
 
