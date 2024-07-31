@@ -78,3 +78,7 @@ It's weird that the ellipsis is made up of periods (which actually end the sente
 You don't need me to tell you this, no one does any more, but it's crazy that typewriters just had you use the same character for 1 and l. How much money could that have possibly saved? And how much confusion did it incur? And it harmed typography for generations...
 
 As far as I can tell, ligatures like ﬀ should never have been added to unicode, since they're just a font thing for ff. But maybe there's something I don't know about it.
+
+If you were making a second unicode, you should definitely keep all of their wacky little symbols that they added into unicode despite not knowing what exactly they meant. Like ⍼ https://en.wikipedia.org/wiki/Angzarr. You don't have to keep the ones that are like "top half of integral" though. Or do you? Maybe someone has used that on a typewriter to make a really tall integral, with | as its backbone 🤔. You should definitely pick a more accurate name for ☫, though.
+
+I would not have added emoji to unicode. That horse is out of that barn, though, I think. (I mean, I wouldn't have added them to the earlier text encodings that Unicode then endeavored to include, therefore starting the emoji craze.)
