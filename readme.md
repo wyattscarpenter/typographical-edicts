@@ -15,6 +15,8 @@ Advice for normal people:
 9. everybody is always trying to design a font that basically looks like helvetica. stop doing this. No one needs another helvetica.
 10. in fact, If you could stop making fonts that are indistinguishable from other fonts we already have several variants of, that would be great. maybe instead you could actually make a single good serif font that covers every Unicode character so far, which I'm still trying to find tbh. (sometimes I think I will spend the rest of my life getting really into font design and then release an extrapolated version of the Georgia font over the entire Unicode character set (and also with lining numerals of course, instead of the current garbage) and call it Ultra-Georgia. (I pick Georgia because it was specially designed to display well on low resolution screens even though it has serifs, and they apparently did that very well because it looks great! unlike many others I've tried on crappy screens))
 11. I probably prefer the sorts of Chinese/Japanese/etc fonts that look like they were manually written, a bit, Song/Ming fonts, over the sorts of fonts that look like they haven't been (Gothic), because it's apparently analogous to serif vs sans serif. i don't really know, though, because i don't read Chinese 
+12. Text-processing systems (like markup) should respect it when you put in a newline, and not demand you put in two newlines to get a paragraph break. Similarly, the output of such systems should be typeset like regular text: pargraphs should be indented in the next line, instead of having a whole blank line separating paragraphs. (It's more important to have the beginning indent than to lose the blank line.)
+13. There is a little difference of opinion on whether the first pargraph of a text should be indented (such as, the first paragraph of a chapter under its title) or left flush with the left side of the page. Well, my opinion is that YES it should be indented. You can also use an illuminated letter there if you would like.
 
 Novel advice:
 
@@ -29,6 +31,7 @@ Novel advice:
 9. It's probably better for the space after a sentence to be more than one regular space. i don't personally hit the space baar twice, but I see the appeal. i think it would probably be better at a 1.5 space I suppose. Maybe the period being small already does this.
 10. You should endeavor to use whom correctly where appropriate.
 11. You should pronounce the wh phoneme as it is supposed to be, as /ʍ/ (voiceless w). This is a little bit archaic in most dialects, but it's good, based on the principle that you should pronounce distinct words distinctly. you should also go even further than that and pronounce the w h in words like who and whole as /ʍ/; this was lost in Middle English, which I usually think of as too far back to revert a change on, but we can just start doing it again.
+
    
 
 Blue-sky advice:
