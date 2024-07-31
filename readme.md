@@ -76,3 +76,5 @@ I used to think all accent marks were a mistake as well, and all of language sho
 It's weird that the ellipsis is made up of periods (which actually end the sentence more strongly than an ellipsis). A perfect punctuation system wouldn't do that. Also, there wouldn't be an ambiguity between trailing off and ellision of text, as there currently is with ... (the fact that … is a distinct unicode character doesn't really help, because it still looks like 3 periods.
 
 You don't need me to tell you this, no one does any more, but it's crazy that typewriters just had you use the same character for 1 and l. How much money could that have possibly saved? And how much confusion did it incur? And it harmed typography for generations...
+
+As far as I can tell, ligatures like ﬀ should never have been added to unicode, since they're just a font thing for ff. But maybe there's something I don't know about it.
