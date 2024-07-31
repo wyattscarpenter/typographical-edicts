@@ -74,3 +74,5 @@ Pre-composed characters are the original sin of unicode, and should not have eve
 I used to think all accent marks were a mistake as well, and all of language should be monospaced by glyph, but that no-longer seems very realistic or desireable to me. They should be easier to type, though... (American keyboard user talking.)
 
 It's weird that the ellipsis is made up of periods (which actually end the sentence more strongly than an ellipsis). A perfect punctuation system wouldn't do that. Also, there wouldn't be an ambiguity between trailing off and ellision of text, as there currently is with ... (the fact that … is a distinct unicode character doesn't really help, because it still looks like 3 periods.
+
+You don't need me to tell you this, no one does any more, but it's crazy that typewriters just had you use the same character for 1 and l. How much money could that have possibly saved? And how much confusion did it incur? And it harmed typography for generations...
