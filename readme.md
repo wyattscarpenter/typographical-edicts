@@ -50,7 +50,7 @@ People keep making fonts wrong, so here's my advice.
 
 My friend John Hyde came up with a great idea, which is that if you'd like to use a question mark where a comma would go, you should write it in the position of the comma (quite small). to this I add that if you would like to use a question mark where a semicolon would go, you should write it in the position of the dot above the comma in the semicolon (again, quite small)
 
-there should be an opening comma, a closing comma, and a list comma.
+there should be an opening comma, a closing comma, and a list comma. (Chinese has this, 、, the list comma. But I think ours should be straight, like ˌ . Naturally, opening command will bend down and to the right, like ⹁, and closing comma will bend down and to the left, like ,. These mimic parens a little. )
 
 I think we need two additional marks that are like the M-Dash that are used when the M-Dash is used parenthetically (but not when it's used because the person is breaking off in speech never to return)
 
