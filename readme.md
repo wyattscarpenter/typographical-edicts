@@ -1,10 +1,10 @@
 # typographical edicts
 
-typographical edicts, orthographic dictates, phonological suggestions, etc etc, by me Wyatt S Carpenter.
+typographical edicts, orthographic dictates, phonological suggestions, linguistic notes, etc etc, by me Wyatt S Carpenter.
 
 People keep making fonts wrong, so here's my advice.
 
-Advice for normal people:
+## Advice for normal people:
 
 1. The bars on the top and bottom of the capital I should always be present, even in a sans-serif font (hence why I just called them "bars" and not "serifs").
 2. lowercase l, the numeral 1, and capital I *must* look different. Very distinct. You may type the phrase "11 Illicit Igloos" to test this.
@@ -22,7 +22,7 @@ Advice for normal people:
 14. You should not use roman numerals (I, II, III, IV, etc). While every educated English speaker will be familiar with these, they are needlessly harder to understand, produce correctly, collate, and otherwise deal with. They can also be ambiguous with other things, like the word I. There's just no reason to use them.
 15. Don't create more versions of markdown unless you need to (and if you need advanced features, see if someone else is also extended markdown to get it, and use the same markdown conventions as them. See also: https://blog.codinghorror.com/standard-flavored-markdown/ . However, if you WERE to create a new markdown-type thing, keep in mind that these days plain text has things like bullets (•◦) and numerical digits (0-9), so certain potential features of a markup language (such as markdown's "asterisk beginning a line begins a bulleted list") are no longer necessary — indeed, they may be undesirable. I like starting lines with * if I need a referent for an asterisk footnote! Better if lines starting with • were the unordered list elements...
  
-Novel advice:
+## Novel advice:
 
 1. There actually should be a devoted character for the apostrophe, which should not be confused with the single right quote, despite the fact that these are the same character in most traditional typography. They should not be the same character; they should be considered distinct characters instead. otherwise how are you going to know when a quotation stops? This dedicated apostrophe character should be somewhat curvy, but not as much as the single quote. But definitely more than the straight single quote! It also should not be confused with any other of the various marks that kind of look like a quotation mark or apostrophe. (Your best bet for this at the present time in unicode would be to use an apostrophe character ', style it with the font to be slightly curvy, and forget I said anything about "straight single quote" because obviously a straight quotemark is a contradiction in terms... a mad disease of the brain inspired by a lunacy caused by the dust of typewriters...)
 2. Also, umlaut and diaeresis should be distinct. the umlaut should look more like ő, but not exactly. (there is technically a way in Unicode to indicate these two distinctly, as was required by a German library system)
@@ -46,7 +46,7 @@ Novel advice:
 20. I strongly feel that Wikipedia titles should be "soft lowercase" (that is, the case of regular words as you would encounter them in a sentence) so that one can easily see if the subject of an article is supposed to be capitalized or what, and not have to hunt through mentions of the subject in the article trying to find one that isn't at the beginning of a sentence (where "subjects" in one sense so often live, being also "subjects" of another kind...) to try to confirm. This principle can probably be generalized a little to other similar documents.
    
 
-Blue-sky advice:
+## Blue-sky advice:
 
 My friend John Hyde came up with a great idea, which is that if you'd like to use a question mark where a comma would go, you should write it in the position of the comma (quite small). to this I add that if you would like to use a question mark where a semicolon would go, you should write it in the position of the dot above the comma in the semicolon (again, quite small)
 
@@ -101,7 +101,7 @@ I would not have added emoji to unicode. That horse is out of that barn, though,
 
 https://en.wikipedia.org/wiki/Palochka this letter is very odd.
 
-Bell Hooks' name should be capitalized normally, being a proper noun. Bell Hooks is free to write her own name — or anyone else's name, for that matter — in a stylized way, much as we are free to write it in a normal and proper way. This applies to all people who wish to stylize their capitalizations nonstandardly. (By the way, the standard capitalization for names like McWhatever is like that, with more capitals in the middle at specific point. I didn't make the rules. O'Whatever is a bit more understandable, since it's more clearly two words.) This is despite the fact that names can generally by any arbitrary combination of letters. But orthography of the speaker is not dictated by you, the subject. Cory Doctorow capitalizes "iPhone" as "Iphone", which is logical but I must ultimatley reject — apparently, the rule being that if you're making a brandname you do actually get to determine the written orthography. Although, as another case study, "id Software", the company, is supposed to be written lowercase, which I suppose I'll let them get away with, but if it occurs at the beginning of a sentence I feel that rule takes precedent, in current English orthographic rules, and you should end up writing ". Id Software". طاهر الجمل is an interesting example. To quote https://en.wikipedia.org/wiki/Taher_Elgamal: " The spellings El Gamal and ElGamal are also found in cryptographic literature. He himself spells it Elgamal (one word, singly capitalized), as it is less likely to be mangled in English. "
+Bell Hooks' name should be capitalized normally, being a proper noun. Bell Hooks is free to write her own name — or anyone else's name, for that matter — in a stylized way, much as we are free to write it in a normal and proper way. This applies to all people who wish to stylize their capitalizations nonstandardly. (By the way, the standard capitalization for names like McWhatever is like that, with more capitals in the middle at specific point. I didn't make the rules. O'Whatever is a bit more understandable, since it's more clearly two words.) This is despite the fact that names can generally by any arbitrary combination of letters. But orthography of the speaker is not dictated by you, the subject. Cory Doctorow capitalizes "iPhone" as "Iphone", which is logical but I must ultimatley reject — apparently, the rule being that if you're making a brandname you do actually get to determine the written orthography. Although, as another case study, "id Software", the company, is supposed to be written lowercase, which I suppose I'll let them get away with, but if it occurs at the beginning of a sentence I feel that rule takes precedent, in current English orthographic rules, and you should end up writing ". Id Software". طاهر الجمل is an interesting example. To quote https://en.wikipedia.org/wiki/Taher_Elgamal: "The spellings El Gamal and ElGamal are also found in cryptographic literature. He himself spells it Elgamal (one word, singly capitalized), as it is less likely to be mangled in English." This guy is probably pretty chill about how you spell his name<sup>[citation needed]</sup>, and, anyway, I think the conventional orthography for this in English is "El-Gamal", which isn't even found as an option in the wild (according to Wikipedia)... I guess you should just use Elgamal, to make searching for references to him slightly more consistent.
 
 Blue sky idea: The first letter of a sentence shouldn't be capitalized, as that isn't very useful, and creates ambiguities with other usages of capitals.
 
@@ -114,4 +114,32 @@ Maybe there should be a special "abbreviation dot", which is like a period but s
 I habitually leave off the dot in abbreviations, but I could be brought back on board if there were a special abbreviation dot. Also, this should, I suppose, replace the apostrphe. Although I'm not sure then what the apostrophe would be for. So maybe the apostrophe would continue to indicate elision and the abbreviation dot abbreviation — a distinction which seems mostly sensible of sometimes arbitrary.
 
 Are minus and en dash actually distinct symbols? They have distinct uses (which, I note, would be ambiguous if they were the same symbol) and distinct unicode characters, but did printers just use the same symbol for both back in the day? They look pretty identical — or maybe they vary slightly?
+
+All religious leaders of the appropriate type (ministers of the basic type)  are called “priests”, not “pastors” (which are shepherds) or other strange terms like “reverends” (which is in fact a ‘style’) or “father” (he is not your father).
+
+I do not endorse the replacement AD/BC with CE/BCE, for a number of subtle reasons. 1. That's just the name of the thing 🤷 2. They invented it (the current numbering scheme) so they get to name it, and they get to name it in honor of their pal Jesus Christ if they want. Shout out to Pope Gregory you a real one. Pope Julian sucks though. The argument that we should change to CE/BCE to be "more inclusive" is obviously fallacious. (I mainly think of "CE" as "that trend I once saw in a museum" these days. I don't think it has big legs. Also back when I saw it the first time I was more willing to accommodate progressive new ideas. And complete the system of German idealism. But now I think we have too many new bad ideas.)
+
+For the record, it is also fine to just say "year 2", "2 in the proleptic Gregorian calendar", or "ISO (8601) year 2". If you wish to deny the deny the supremacy of the Pope (he of "Gregory" fame), you may say "year 2 of the Improved Calendar". To quote [wikipedia](https://en.wikipedia.org/w/index.php?title=Gregorian_calendar&oldid=1296639610#cite_ref-8):
+> The reform was adopted initially by the Catholic countries of Europe and their overseas possessions. Over the next three centuries, the Protestant and Eastern Orthodox countries also gradually moved to what they called the "Improved calendar",[d]
+> d. ^ called such to avoid any suggestion of recognising the authority of Rome. The British Calendar (New Style) Act 1750 restates the algorithm from first principles without any reference to Gregory.
+
+To be clear, it's only fine to say these things out of whimsy. You should just use AD/BC, in contexts where that type of notation is required, and mention the precise calendar you're using if you need to.
+
+There's a longstanding rule that if an adverb-adjective part involves "ly" (it's a little more complicated than that, but whatever), you shouldn't hyphenate it when using it as a compound adjective before a noun. However, I think it's fine to do this, and whether to do it or not is largely based on feel, like non-obligatory commas.
+
+There's sometimes multiple styles of pluralizing a word, such as -s or (for latinate words) -i. Usually, both of these are fine, and it's just a stylistic choice.
+
+Allow me to quote an amusing digression on the topic of plural style from a book, talking about "topoi" vs "toposes" (I don't know the title of the book at the moment, sorry):
+> already have observed that I use the English plural; I do so because (in its mathematical sense) the word topos is not a direct derivative of its Greek root, but a back-formation from topology. I have nothing further to say on the matter, except to ask those toposophers† who persist in talking about topoi whether, when they go out for a ramble on a cold day, they carry supplies of hot tea with them in thermoi.
+
+## "Typos" I endorse:
+
+I'm generally pretty lax about alternate spellings of words. There are many valid ways to spell many words in English, wildly attested, and it's fine. (Tangent investigating whether naïvely-implemented spellcheck over-enforced orthography conformity to an arbitrary standard left out here because I'm not sure if it's true.) Also, some of the rules we do have in English are pretty dumb. Why do most words ending in y have the y switched to i when a suffix is added to them, even though keeping the y would be clearer and would be pronounced the same?
+
+You should be writing "suppost" for the sense of "supposed" meaning intended/obligated. That's the way it's pronounced and it's ambigious with "supposed" (thought) otherwise (this is its etymology but not its meaning), which I will note is still pronounced "supposed". It is also permissible to write "suppos't", if you like.
+
+"Layed" is fine for the past tense of lay, but not obligatory. Same for "payed" for the past tense of pay. (btw, both )
+
+
+
 
