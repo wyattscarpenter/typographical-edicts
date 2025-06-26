@@ -132,6 +132,17 @@ There's sometimes multiple styles of pluralizing a word, such as -s or (for lati
 Allow me to quote an amusing digression on the topic of plural style from a book, talking about "topoi" vs "toposes" (I don't know the title of the book at the moment, sorry):
 > already have observed that I use the English plural; I do so because (in its mathematical sense) the word topos is not a direct derivative of its Greek root, but a back-formation from topology. I have nothing further to say on the matter, except to ask those toposophers† who persist in talking about topoi whether, when they go out for a ramble on a cold day, they carry supplies of hot tea with them in thermoi.
 
+You should be capitalizing *every* word in the title of something, not leaving out prepositions. But if you are going to leave out prepositions, leave out all of them, no matter how big they are.
+
+I used to think we should get rid of capitals (majuscules) entirely, but the cat's out that bag, and also I learned that in the Chinese bible they underline names so you can tell what things are names (see also: Mark Twain complaining that in German since all nouns are capitalized it is difficult to tell when a person's name which also happens to be a word occurs) instead of just Chinese words which might naively mean something else. So, I think we need to annotate proper nouns someway, and underlining or a dedicated punctuation mark would work, but hey we already have the capital letter system, so let's just use it.
+
+https://faculty.georgetown.edu/jod/texts/twain.german.html The Awful German Language, Mark Twain, from A Tramp Abroad:
+> You fall into error occasionally, because you mistake the name of a person for the name of a thing, and waste a good deal of time trying to dig a meaning out of it. German names almost always do mean something, and this helps to deceive the student. I translated a passage one day, which said that "the infuriated tigress broke loose and utterly ate up the unfortunate fir forest" (Tannenwald). When I was girding up my loins to doubt this, I found out that Tannenwald in this instance was a man's name. 
+
+The french style of numbering books is better (this ties into my hatred of roman numerals).
+
+When I use country adjectives like french or english, without emphasis on the country itself (ie "the French army"), I tend not to capitalize them. I'm a daredevil like that.
+
 ## "Typos" I endorse:
 
 I'm generally pretty lax about alternate spellings of words. There are many valid ways to spell many words in English, wildly attested, and it's fine. (Tangent investigating whether naïvely-implemented spellcheck over-enforced orthography conformity to an arbitrary standard left out here because I'm not sure if it's true.) Also, some of the rules we do have in English are pretty dumb. Why do most words ending in y have the y switched to i when a suffix is added to them, even though keeping the y would be clearer and would be pronounced the same?
