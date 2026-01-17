@@ -114,7 +114,7 @@ Blue sky idea: The first letter of a sentence shouldn't be capitalized, as that 
 
 Blue sky idea: The first-person singular pronoun "I" shouldn't be capitalized, as that isn't very useful, and creates ambiguities with other usages of capitals. This is a crazy rule in the first place, given that we don't capitalize "me", etc. We only tend to capitalize a pronoun if it refers to God, and even then I think that rule is hokey and optional (I only do it myself out of a sense of whimsy). Allegedly people capitalize I because i was more confusable with other letters when you were a scribe writting it out, but I don't see it; at least these days, I is actually a more ambiguous letter, looking more like l, 1, t, roman numberal I (Fun fact: special unicode codepoint:Ⅰ), etc. I guess if you're a scribe you have less luxurious spaces and more latin so it's more ambiguous if a phrase "and whatever I" is actually "and whateveri" or something. Anyway, I don't buy it.
 
-Blue sky idea: maybe all "i"s and "j"s should be dotless.
+Blue sky idea: maybe all "i"s and "j"s should be dotless by default.
 
 Maybe there should be a special "abbreviation dot", which is like a period but slightly smaller and slightly raise, to remove the ambiguity between sentence termination and abbreviations.
 
@@ -149,6 +149,10 @@ https://faculty.georgetown.edu/jod/texts/twain.german.html The Awful German Lang
 The french style of numbering books is better (this ties into my hatred of roman numerals).
 
 When I use country adjectives like french or english, without emphasis on the country itself (ie "the French army"), I tend not to capitalize them. I'm a daredevil like that.
+
+Sometimes it's hard to tell what character a glyph "actually is" due to various arbitrary mappings between the levels of abstraction, such as the idea that fonts can look like whatever they want, and the fact that sometimes people use the wrong symbol for various reasons, or write/print an ambiguous glyph.
+
+Then there are odd mysteries like "is a j just a swash i?"; "is № just an N plus a masculine ordinal indicator? For that matter, is a masculine ordinal indicator just a superscript (sometimes underlined) o (letter oh)? Is a degree symbol a masculine ordinal indicator, or a superscript o (letter oh) or its own bespoke symbol?" (I think, being perfectly round and symmetrical, unlike o (letter oh), the degree sign is probably different than both.); "Is a percent sign % the same as, like, a 0 over 0 fraction 0⁄0, or what?" (the percent sign is often written with a sort of ligature from the top 0 to the slash to distinguish from such a fraction, I suppose). There is also the wrinkle that a new character can spring forth into our ontology from a gradual mutation from an old character, leading to "line-drawing problems" between the two (is this mutated enough to be the new character, or is it still the old character in the particular style?).
 
 ## "Typos" I endorse:
 
